@@ -75,7 +75,7 @@ header {
 }
 
 main {
+  position: absolute;
+  left: 200px;
   width: 100;
-  background-color: red;
-  padding-left: 200px;
 }
